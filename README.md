@@ -1,0 +1,1 @@
+The Digital Bonafide System is a web application developed to streamline and digitalize the process of generating and managing bonafide certificates for students in educational institutions. It allows students to easily request certificates online, and administrators to manage and approve those requests efficiently.
